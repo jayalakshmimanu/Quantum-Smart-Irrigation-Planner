@@ -1,0 +1,4 @@
+irrigation_method,application_efficiency
+Drip,0.9
+Sprinkler,0.75
+Surface/Canal,0.6
